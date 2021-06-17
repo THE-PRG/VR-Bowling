@@ -1,5 +1,5 @@
 # VR-Bowling
-A Bowling VR game using Unity 2019.4
+A VR Bowling game using Unity 2019.4
 
 # Authors
 - [Paul "THE PRG" V.](https://github.com/THE-PRG)
